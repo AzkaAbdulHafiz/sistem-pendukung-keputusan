@@ -14,7 +14,7 @@ Install postman
 https://www.postman.com/downloads/
 
 get baju list
-<img src='img/get_baju_.png' alt='baju list'/>
+<img src='img/get_baju.png' alt='baju list'/>
 
 get recommendations saw
 <img src='img/post_saw.png' alt='recommendations saw'/>
